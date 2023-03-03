@@ -1,6 +1,6 @@
 <strong> Sobre mim </strong>
 
-<p> 👩‍💻QA, mais conhecida como terror dos devs. </p>
+<p>QA, mais conhecida como terror dos devs 👩‍💻 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=CllgCJfpKFVcDSHCCKjkTFLHppstDkxKdXtTqBRPmgRFKgMbbRCcqkCMxJmWQKbKgBggfstksHg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-santos-5568721b8/)
